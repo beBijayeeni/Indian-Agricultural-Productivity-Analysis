@@ -49,7 +49,7 @@ The workflow includes:
 ## 🧭 Project Structure  
 
 ```text
-.
+
 ├── IndianAgriculturalProductivityAnalysis.ipynb     # Main analysis notebook
 ├── DataAnalysisReport.pdf                           # Final submitted lab report
 ├── README.md                                        # Project documentation
